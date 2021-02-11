@@ -1,0 +1,20 @@
+{
+  "name": "http-handler2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "aws-sdk": "^2.839.0",
+    "serverless-apigw-binary": "^0.4.4",
+    "serverless-offline": "^6.8.0"
+  },
+  "dependencies": {
+    "elasticsearch": "^16.7.2",
+    "uuid": "^8.3.2"
+  }
+}
